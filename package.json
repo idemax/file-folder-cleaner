@@ -1,0 +1,15 @@
+{
+  "name": "file-folder-cleaner",
+  "version": "1.0.0",
+  "description": "A Node.js script for cleaning up music files and folders on your machine",
+  "main": "file-folder-cleaner.js",
+  "keywords": [],
+  "author": "Idemax",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.1",
+    "music-metadata": "^8.1.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
